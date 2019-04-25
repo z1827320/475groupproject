@@ -5,7 +5,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #A80154;
+	background: #c8102e;
 	font-family: 'Chivo', sans-serif;
 	font-size: 12pt;
 	font-weight: 300;
@@ -168,7 +168,7 @@ hr {
 	
 	ul.contact li a.icon-twitter:before { background: #2DAAE4; }
 	ul.contact li a.icon-facebook:before { background: #39599F; }
-	ul.contact li a.icon-dribbble:before { background: #C4376B;	}
+	ul.contact li a.icon-dribbble:before { background: #c8102e;	}
 	ul.contact li a.icon-tumblr:before { background: #31516A; }
 	ul.contact li a.icon-rss:before { background: #F2600B; }
 
@@ -187,7 +187,7 @@ hr {
 	{
 		font-weight: 400;
 		font-size: 2em;
-		color: #B10058;
+		color: #c8102e;
 	}
 	
 	.title .byline
@@ -498,7 +498,7 @@ hr {
 		display: inline-block;
 		margin-top: 1.5em;
 		padding: 0.50em 3em 0.50em 2em;
-		background: #BB005D;
+		background: #c8102e;
 		letter-spacing: 0.20em;
 		text-decoration: none;
 		text-transform: uppercase;
