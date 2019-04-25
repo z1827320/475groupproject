@@ -6,7 +6,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	background: #c8102e;
-	font-family: 'Chivo', sans-serif;
+	font-family: helvetica, sans-serif;
 	font-size: 12pt;
 	font-weight: 300;
 	color: #363636;
@@ -407,10 +407,8 @@ hr {
 
 	#welcome
 	{
-		overflow: hidden;
-		padding: 5em 0em;
-		border-bottom: 1px solid #E5E5E5;
-		text-align: center;
+		font-size: 1.3em;
+		
 	}
 	
 	#welcome h2
