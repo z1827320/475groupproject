@@ -407,8 +407,10 @@ hr {
 
 	#welcome
 	{
-		font-size: 1.3em;
-		
+		overflow: hidden;
+		padding: 5em 0em;
+		border-bottom: 1px solid #E5E5E5;
+		text-align: center;
 	}
 	
 	#welcome h2
